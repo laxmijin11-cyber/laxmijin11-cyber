@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,30&height=200&section=header&text=Building%20Intelligent%20Systems&fontSize=40&fontAlignY=35&animation=twinkling" alt="Header" />
   
   <h1>Hi, I'm Laxmi Jindal 👋</h1>
-  <h3>AI Engineer | Multi-Agent Systems | Generative AI</h3>
+  <h3>Agentic AI Engineer | Production Ready Multi-Agent Systems | Generative AI</h3>
 
   <p>
     <a href="https://linkedin.com/in/laxmi-jindal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
